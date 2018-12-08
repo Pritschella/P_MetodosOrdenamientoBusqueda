@@ -29,6 +29,7 @@ class hash_table:
         
     def Remove(self, value):
         
+        
 
 
 H = hash_table()
